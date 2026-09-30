@@ -1,8 +1,11 @@
 # Template ski 1 - Anpaski
 
+> **Référence GitLab** : le template 1 se trouve sur la branche `starter` du dépôt [AgenceThrive/anpaski](https://gitlab.com/AgenceThrive/anpaski/-/tree/starter).
+> **Base fonctionnelle** : le template 1 est basé sur **Cinto Sport**, qui constitue la version la plus évoluée du socle Anpaski.
+
 ## Présentation
 
-Le template 1 est basé sur le projet **Anpaski**, lui-même construit à partir du site Cinto Sport. Il propose une base WordPress réutilisable pour les magasins de ski, les loueurs de matériel et les stations de montagne.
+Le template 1 est basé sur le projet **Anpaski**, dont la version de référence est **Cinto Sport**, la version la plus évoluée du socle. Il propose une base WordPress réutilisable pour les magasins de ski, les loueurs de matériel et les stations de montagne.
 
 Anpaski a été standardisé pour conserver les éléments qui se répètent d'un site à l'autre :
 
