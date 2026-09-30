@@ -37,4 +37,3 @@ Voir également :
 - [Checklist de livraison](checklist.md)
 
 **À retenir :** la checklist doit être parcourue avant toute mise en ligne. Les pages de documentation doivent être consultées dans l'ordre adapté au projet.
-
