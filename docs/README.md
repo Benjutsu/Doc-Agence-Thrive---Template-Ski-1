@@ -12,7 +12,7 @@ Anpaski a été standardisé pour conserver les éléments qui se répètent d'u
 - une architecture Bedrock, Timber et Twig ;
 - un header responsive avec menu services, navigation desktop et navigation mobile ;
 - des sections de page réutilisables pour les services, les produits, les offres, la station et la réservation ;
-- des Custom Post Types pour les services, FAQ, marques, articles, avis et équipements ;
+- des Custom Post Types pour les services, FAQ, marques, avis et équipements ;
 - un système de champs Carbon Fields et de contexte Timber ;
 - une gestion multilingue avec Polylang et Loco Translate ;
 - une intégration Gravity Forms avec association entre formulaires traduits et formulaire parent.
@@ -25,8 +25,8 @@ Le template couvre notamment :
 
 - une page d'accueil composée de sections éditoriales ;
 - un accès aux services depuis le header ;
-- une page boutique, une page station, une page contact, une FAQ et un blog ;
-- des cartes de services, articles, FAQ et marques ;
+- une page boutique, une page station, une page contact et une FAQ ;
+- des cartes de services, FAQ et marques ;
 - des liens de réservation vers une boutique externe par langue ;
 - des pages légales et un UI kit de contrôle.
 

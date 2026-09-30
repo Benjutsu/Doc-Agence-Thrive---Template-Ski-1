@@ -25,7 +25,8 @@
 ## Back-office et traductions
 
 - [ ] Polylang est configuré avant la saisie des contenus.
-- [ ] Les pages, services, FAQ, marques, articles, avis, équipements et champs éditoriaux sont traduits dans chaque langue.
+- [ ] Les pages, services, FAQ, marques, avis, équipements et champs éditoriaux sont traduits dans chaque langue.
+- [ ] Aucun blog ni contenu de type article n'est créé ou annoncé dans le périmètre du template livré.
 - [ ] Le catalogue `timberrock` est à jour dans Loco Translate.
 - [ ] Chaque formulaire Gravity Forms existe dans toutes les langues actives.
 - [ ] Chaque formulaire Gravity Forms possède la bonne langue associée.

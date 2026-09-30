@@ -9,7 +9,7 @@ views/
 ├── base.twig
 ├── partials/       éléments communs : header, footer, menu, breadcrumb
 ├── helpers/        helpers Twig : images et icônes
-├── cards/          cartes de contenus : service, article, FAQ, marque
+├── cards/          cartes de contenus : service, FAQ, marque
 ├── sections/       blocs réutilisables d'une page
 └── templates/
     ├── pages/      pages WordPress
@@ -25,7 +25,9 @@ Le bandeau bleu situé avant le header reprend le lien `get_permalink_boutique()
 
 ### `templates/pages`
 
-Les templates de pages correspondent aux pages WordPress : `accueil.twig`, `le-magasin.twig`, `la-station.twig`, `contact.twig`, `questions-frequentes.twig`, `blog.twig`, les pages légales et `ui-kit.twig`.
+Les templates de pages correspondent aux pages WordPress : `accueil.twig`, `le-magasin.twig`, `la-station.twig`, `contact.twig`, `questions-frequentes.twig`, les pages légales et `ui-kit.twig`.
+
+Les fichiers `blog.twig`, les archives d'articles et les cartes d'articles présents dans le socle ne font pas partie du périmètre fonctionnel du template livré. Ils peuvent être supprimés ou conservés comme éléments optionnels, mais ne doivent pas être alimentés ni annoncés comme une fonctionnalité du site sans demande spécifique.
 
 La page d'accueil est assemblée dans `templates/pages/accueil.twig` dans cet ordre :
 
@@ -61,7 +63,7 @@ Les partials regroupent les éléments communs :
 
 ### `cards` et `helpers`
 
-Les cartes rendent les contenus répétables : `service.twig`, `article.twig`, `post.twig`, `faq.twig` et `marque.twig`. Les helpers d'image et d'icône évitent de dupliquer les traitements Twig dans chaque section.
+Les cartes utilisées par le périmètre du template rendent les contenus répétables : `service.twig`, `faq.twig` et `marque.twig`. Les cartes `article.twig` et `post.twig` sont optionnelles tant que le site ne comprend pas de blog. Les helpers d'image et d'icône évitent de dupliquer les traitements Twig dans chaque section.
 
 ## Méthode de modification
 

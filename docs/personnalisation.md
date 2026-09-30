@@ -86,7 +86,7 @@ Le thème Anpaski ne contient pas de calcul automatique de saison comparable à 
 
 ## Traductions
 
-Configurer les langues Polylang avant de saisir les contenus. Traduire les pages, services, FAQ, marques, articles, avis, équipements, champs éditoriaux et chaînes du thème avec Loco Translate dans le domaine `timberrock`.
+Configurer les langues Polylang avant de saisir les contenus. Traduire les pages, services, FAQ, marques, avis, équipements, champs éditoriaux et chaînes du thème avec Loco Translate dans le domaine `timberrock`. Aucun contenu de blog ou article n'est à créer pour le périmètre actuel du template.
 
 ### Gravity Forms
 
